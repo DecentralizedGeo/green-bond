@@ -1,7 +1,9 @@
-[![Build Status](https://www.travis-ci.com/AstralProtocol/sprout.svg?branch=main)](https://www.travis-ci.com/AstralProtocol/sprout)
-[![Coverage Status](https://coveralls.io/repos/github/AstralProtocol/sprout/badge.svg?branch=main)](https://coveralls.io/github/AstralProtocol/sprout?branch=main)
 
 # 🌱 Sprout
+
+## Project Status: Archived Demo  
+
+**This repository contains a demo project developed a few years ago as an exploration of a decentralized spatial finance application. While the project is no longer actively maintained, we’ve kept the code available as a reference for those interested in its architecture, methodologies, or implementation details. It may still serve as a useful learning resource, but note that dependencies and frameworks may be outdated.**
 
 For a guide on how to clone and start the app, [jump down](#start).
 
